@@ -1,0 +1,4 @@
+this file contains source code for amazon.in
+$ec2-user
+ankit
+sampad.txt
